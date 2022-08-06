@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA and DBMS**
 
-- 💬 Ask me about **c/Python/Java**
+- 💬 Ask me about **C|PYTHON|JAVA**
 
 - 📫 How to reach me **swati.sinha9922@gmail.com**
 
