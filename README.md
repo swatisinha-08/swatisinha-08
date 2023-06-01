@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and DBMS**
+- 🌱 I’m currently learning **DAA**
 
-- 💬 Ask me about **C | Python | Java**
+- 💬 Ask me about **C | Python | Java|DBMS|DSA|MongoDB|Web Development**
 
 - 📫 How to reach me **swati.sinha9922@gmail.com**
 
